@@ -1,2 +1,2 @@
-# Resume-Screening-App
-Resume Screening App With Python and Machine Learning 
+# Resume-Category-App
+Resume Category App With Python and Machine Learning 
